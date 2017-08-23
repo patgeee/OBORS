@@ -4,7 +4,7 @@
   endorsed by the College of Computer Studies of Xavier University - Ateneo de Cagayan <br>
   
   Developers: <br>
-  Patrick Nangkil Gomez
-  Apple Jane Apura Manayaga
-  Trisha Louisse Baa
+  Patrick Nangkil Gomez <br>
+  Apple Jane Apura Manayaga <br>
+  Trisha Louisse Baa <br>
  
